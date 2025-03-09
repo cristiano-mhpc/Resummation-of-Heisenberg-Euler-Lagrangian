@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp CMakeFiles/constant.dir/constant.cpp.o -o constant  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmpfr.so /usr/local/lib/libgmp.so 
