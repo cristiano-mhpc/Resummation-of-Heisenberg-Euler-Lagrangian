@@ -1,0 +1,3 @@
+/home/christian/Desktop/Second_paper_codes/FOR_PRSA/Magnetic/20_mom_1hdig/Constants/build/CMakeFiles/constant.dir
+/home/christian/Desktop/Second_paper_codes/FOR_PRSA/Magnetic/20_mom_1hdig/Constants/build/CMakeFiles/edit_cache.dir
+/home/christian/Desktop/Second_paper_codes/FOR_PRSA/Magnetic/20_mom_1hdig/Constants/build/CMakeFiles/rebuild_cache.dir

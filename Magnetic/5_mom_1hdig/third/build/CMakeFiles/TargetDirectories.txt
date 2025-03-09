@@ -1,0 +1,3 @@
+/home/christian/Desktop/Second_paper_codes/FOR_PRSA/Magnetic/5_mom_1hdig/third/build/CMakeFiles/third.dir
+/home/christian/Desktop/Second_paper_codes/FOR_PRSA/Magnetic/5_mom_1hdig/third/build/CMakeFiles/edit_cache.dir
+/home/christian/Desktop/Second_paper_codes/FOR_PRSA/Magnetic/5_mom_1hdig/third/build/CMakeFiles/rebuild_cache.dir
