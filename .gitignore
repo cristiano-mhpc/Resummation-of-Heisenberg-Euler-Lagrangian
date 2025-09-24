@@ -42,4 +42,20 @@ lib/
 *.gcov
 *.profraw
 *.profdata
+# Build trees everywhere
+**/build/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+**/.ninja_deps
+**/.ninja_log
+**/*.o
+**/*.o.d
+**/*.a
+**/*.so
+**/*.dll
+**/*.exe
+**/Testing/
+**/compile_commands.json
 
