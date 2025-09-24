@@ -1,0 +1,45 @@
+# --- Vim / editors ---
+.*.sw?          # .swp .swo .swn .swm .swl
+*.sw?
+.tags
+.TAGS
+.vscode/
+.idea/
+
+# --- CMake / build trees ---
+build/
+build-*/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+CTestTestfile.cmake
+cmake_install.cmake
+Testing/
+compile_commands.json
+install_manifest.txt
+.ninja_deps
+.ninja_log
+Makefile
+
+# --- Compiled objects / libs / bins ---
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.mod
+*.smod
+bin/
+lib/
+
+# --- Coverage / profiling (optional) ---
+*.gcno
+*.gcda
+*.gcov
+*.profraw
+*.profdata
+
